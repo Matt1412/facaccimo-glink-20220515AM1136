@@ -8,13 +8,13 @@
     "1": {
       "title": "The Curse of the Inner Court",
       "volume": "1",
-      "last_updated": "1652590072",
+      "last_updated": "1517349405",
       "groups": {
         "priamos1 ": "/proxy/api/imgur/chapter/CsabtUm/"
       }
     },
     "2": {
-      "title": "Mad Scientist",
+      "title": "The Mad Scientist",
       "volume": "1",
       "groups": {
         "priamos1": "/proxy/api/imgur/chapter/l2YkXnK/"
@@ -22,7 +22,7 @@
       "last_updated": 1517350994
     },
     "3": {
-      "title": "The Imperial Court's Nymph",
+      "title": "The Heavenly Maiden of the Court",
       "volume": "1",
       "groups": {
         "priamos1": "/proxy/api/imgur/chapter/CMsZg2o/"
@@ -30,7 +30,7 @@
       "last_updated": 1517352637
     },
     "4": {
-      "title": "The Moonlight Specter",
+      "title": "The Moonlight Ghost",
       "volume": "1",
       "groups": {
         "priamos1": "/proxy/api/imgur/chapter/7nxeuSf/"
@@ -38,7 +38,7 @@
       "last_updated": 1517352817
     },
     "5": {
-      "title": "Nursing",
+      "title": "Caring for the Consort",
       "volume": "2",
       "groups": {
         "priamos1": "/proxy/api/imgur/chapter/Dfhj5vs/"
@@ -46,7 +46,7 @@
       "last_updated": 1517352361
     },
     "6": {
-      "title": "GARDEN PARTY (PART 1)",
+      "title": "The Garden Banquet (Part 1)",
       "volume": "2",
       "groups": {
         "Phoenix Serenade Scans": "/proxy/api/imgur/chapter/haKZUby/"
@@ -54,7 +54,7 @@
       "last_updated": 1516726962
     },
     "7": {
-      "title": "GARDEN PARTY (PART 2)",
+      "title": "The Garden Banquet (Part 2)",
       "volume": "2",
       "groups": {
         "Phoenix Serenade Scans": "/proxy/api/imgur/chapter/eMvlPRX/"
@@ -62,7 +62,7 @@
       "last_updated": 1516729154
     },
     "8": {
-      "title": "GARDEN PARTY (PART 3)",
+      "title": "The Garden Banquet (Part 3)",
       "volume": "2",
       "groups": {
         "Phoenix Serenade Scans": "/proxy/api/imgur/chapter/JfSN590/"
@@ -70,7 +70,7 @@
       "last_updated": 1516733108
     },
     "9": {
-      "title": "Cat Reasoning",
+      "title": "Maomao's Deductions",
       "volume": "3",
       "groups": {
         "Phoenix Serenade Scans": "/proxy/api/imgur/chapter/9lHe2XF/"
@@ -78,7 +78,7 @@
       "last_updated": 1518455335
     },
     "10": {
-      "title": "The Meaning of a Hairpin",
+      "title": "The Meaning of the Hairpins",
       "volume": "3",
       "groups": {
         "Phoenix Serenade Scans": "/proxy/api/imgur/chapter/RkQ91Qx/"
@@ -86,7 +86,7 @@
       "last_updated": 1522478671
     },
     "11": {
-      "title": "Homecoming",
+      "title": "Returning Home",
       "volume": "3",
       "groups": {
         "Phoenix Serenade Scans": "/proxy/api/imgur/chapter/bZHp9Y6/"
@@ -94,7 +94,7 @@
       "last_updated": 1526626752
     },
     "12": {
-      "title": "Wheat Stalk",
+      "title": "Straw",
       "volume": "3",
       "groups": {
         "Kongkalikong Scanlation": "/proxy/api/imgur/chapter/LoEMVin/"
@@ -102,7 +102,7 @@
       "last_updated": 1535880275
     },
     "13": {
-      "title": "Misunderstanding",
+      "title": "The Misunderstanding",
       "volume": "3",
       "groups": {
         "No Group Scanlation & Kongkalikong Scanlation": "/proxy/api/imgur/chapter/wuoTTiz/"
@@ -110,7 +110,7 @@
       "last_updated": 1536356662
     },
     "14": {
-      "title": "Sake",
+      "title": "Alcohol",
       "volume": "3",
       "groups": {
         "No Group Scanlation & Kongkalikong Scanlation": "/proxy/api/imgur/chapter/QekI6d8/"
@@ -118,7 +118,7 @@
       "last_updated": 1537447715
     },
     "15": {
-      "title": "A Request to Mao Mao",
+      "title": "A Request for Mao Mao",
       "volume": "4",
       "groups": {
         "No Group Scanlation & Kongkalikong Scanlation": "/proxy/api/imgur/chapter/3GfwUJs/"
@@ -142,7 +142,7 @@
       "last_updated": 1544475887
     },
     "18": {
-      "title": "Consort Aaduo",
+      "title": "Consort Aduo",
       "volume": "4",
       "groups": {
         "No Group Scanlation & Kongkalikong Scanlation": "/proxy/api/imgur/chapter/Abahu88/"
@@ -150,7 +150,7 @@
       "last_updated": 1545672269
     },
     "19": {
-      "title": "Crossroads",
+      "title": "Miscommunication",
       "volume": "4",
       "groups": {
         "No Group Scanlation & Kongkalikong Scanlation": "/proxy/api/imgur/chapter/6LzWJOq/"
@@ -158,7 +158,7 @@
       "last_updated": 1545672314
     },
     "20": {
-      "title": "The Eunuch and The Courtesan",
+      "title": "The Eunuch and the Courtesan",
       "volume": "4",
       "groups": {
         "No Group Scanlation & Kongkalikong Scanlation": "/proxy/api/imgur/chapter/I7FJNFf/"
@@ -166,7 +166,7 @@
       "last_updated": 1546306208
     },
     "21": {
-      "title": "The Packing",
+      "title": "Packing Up",
       "volume": "4",
       "groups": {
         "No Group Scanlation & Kongkalikong Scanlation": "/proxy/api/imgur/chapter/Ced3Jq9/"
@@ -174,7 +174,7 @@
       "last_updated": 1547212956
     },
     "21.5": {
-      "title": "Extras",
+      "title": "Volume 04 Extras",
       "volume": "4",
       "groups": {
         "No Group Scanlation": "/proxy/api/imgur/chapter/mq9Aqaj/"
@@ -302,7 +302,7 @@
       "last_updated": 1583421041
     },
     "32.5": {
-      "title": "Extras",
+      "title": "Volume 06 Extras",
       "volume": "6",
       "groups": {
         "No Group Scanlation": "/proxy/api/imgur/chapter/okNzRJi/"
@@ -554,7 +554,7 @@
     "51": {
       "title": "Third Time's The Charm (Part 2)",
       "volume": "10",
-      "last_updated": "1652590392",
+      "last_updated": "1647086982",
       "groups": {
         "No Group Scanlation": [
           "https://i.ibb.co/mSCQsdK/01.jpg",
@@ -581,7 +581,7 @@
     "52": {
       "title": "Third Time's The Charm (Part 3)",
       "volume": "10",
-      "last_updated": "1652589937",
+      "last_updated": "1649692800",
       "groups": {
         "No Group Scanlation": [
           "https://i.ibb.co/FbfQ87f/01.jpg",
