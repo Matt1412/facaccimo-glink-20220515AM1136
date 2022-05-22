@@ -492,35 +492,112 @@
          },
          "last_updated":"1627507342"
       },
-      "46":{
-         "title":"Mirror",
-         "volume":"9",
-         "groups":{
-            "No Group Scanlation":[
-"https://i.ibb.co/2jV4BK4/001.jpg","https://i.ibb.co/HdJDjM4/002.jpg","https://i.ibb.co/5KtNBNd/003.jpg","https://i.ibb.co/FB6zkkX/004.jpg","https://i.ibb.co/RBz552F/005.jpg","https://i.ibb.co/P1yk2yP/006.jpg","https://i.ibb.co/kc0PWd6/007.jpg","https://i.ibb.co/2cP46w5/008.jpg","https://i.ibb.co/FwNRF6V/009.jpg","https://i.ibb.co/WkQNfwM/010.jpg","https://i.ibb.co/bJNt5qy/011.jpg","https://i.ibb.co/BysyGgj/012.jpg","https://i.ibb.co/SyxfwDD/013.jpg","https://i.ibb.co/VHGBTcx/014.jpg","https://i.ibb.co/y6B4Dft/015.jpg","https://i.ibb.co/K7DbFPx/016.jpg","https://i.ibb.co/m8N4Txj/017.jpg","https://i.ibb.co/3s8nfDh/018.jpg","https://i.ibb.co/N99xF0S/019.jpg","https://i.ibb.co/J3FY0cW/020.jpg","https://i.ibb.co/Lrdvc3T/021.jpg","https://i.ibb.co/G72ShRG/022.jpg","https://i.ibb.co/Nnw4WCW/023.jpg","https://i.ibb.co/dKVqJpc/024.jpg","https://i.ibb.co/3YLdjzL/025.jpg","https://i.ibb.co/NSSyZD9/026.jpg","https://i.ibb.co/G2jNXPH/027.jpg","https://i.ibb.co/cXXvLqw/028.jpg","https://i.ibb.co/FzznxMh/49.jpg","https://i.ibb.co/6N0qvm9/050.jpg"]
-         },
-         "last_updated":"1632416626"
-      },
-      "47":{
-         "title":"Moon Fairy (Part 1)",
-         "volume":"9",
-         "groups":{
-            "No Group Scanlation":[
-"https://i.ibb.co/fp9NQDd/01.jpg","https://i.ibb.co/wBYnMwR/02.jpg","https://i.ibb.co/4tyd1FX/03.jpg","https://i.ibb.co/Lp4MMpT/04.jpg","https://i.ibb.co/7tW3Bph/05.jpg","https://i.ibb.co/D9mdt0V/06.jpg","https://i.ibb.co/MhFqtpX/07.jpg","https://i.ibb.co/CKny2gR/08.jpg","https://i.ibb.co/Pwsx5rh/09.jpg","https://i.ibb.co/R6rtmjJ/10.jpg","https://i.ibb.co/s6p6JYz/11.jpg","https://i.ibb.co/v3Lrtv3/12.jpg","https://i.ibb.co/ypfrqds/13.jpg","https://i.ibb.co/GVy2189/14.jpg","https://i.ibb.co/nbRwJSx/15.jpg","https://i.ibb.co/hDBVFpq/16.jpg","https://i.ibb.co/NyMxjQ7/17.jpg","https://i.ibb.co/qL8yktn/18.jpg","https://i.ibb.co/bvFqyLC/19.jpg","https://i.ibb.co/RHRyFc6/20.jpg","https://i.ibb.co/VTpBHB8/21.jpg","https://i.ibb.co/yn3nBGJ/22.jpg","https://i.ibb.co/vHwnKw9/23.jpg","https://i.ibb.co/f8HSsK4/24.jpg","https://i.ibb.co/rbXvTpZ/25.jpg","https://i.ibb.co/L6ffrTv/26.jpg","https://i.ibb.co/kXqFmSD/27.jpg","https://i.ibb.co/7SHy4rD/28.jpg","https://i.ibb.co/pv9cz7t/29.jpg","https://i.ibb.co/VW0kYpB/30.jpg","https://i.ibb.co/RQ9CPrW/31.jpg","https://i.ibb.co/HTjHtMx/32.jpg","https://i.ibb.co/zJw178Y/33.jpg","https://i.ibb.co/54v8QJ9/34.jpg","https://i.ibb.co/X7fThC4/50.jpg"
-]
-         },
-         "last_updated":"1635030009"
-      },
-      "48.1":{
-         "title":"Moon Fairy (Part 2)",
-         "volume":"10",
-         "groups":{
-            "No Group Scanlation":[
-"https://i.ibb.co/s60z6cD/01.jpg","https://i.ibb.co/MhPDxCB/02.jpg","https://i.ibb.co/86wNgyg/03.jpg","https://i.ibb.co/JHKk974/04.jpg","https://i.ibb.co/fpJgdnT/05.jpg","https://i.ibb.co/0qkzpWK/06.jpg","https://i.ibb.co/RTCShVW/07.jpg","https://i.ibb.co/zR7qw0J/08.jpg","https://i.ibb.co/gWqzXZw/09.jpg","https://i.ibb.co/7b48cHR/10.jpg","https://i.ibb.co/wwbsjBy/11.jpg","https://i.ibb.co/qd6x51T/12.jpg","https://i.ibb.co/wSRCk3j/13.jpg","https://i.ibb.co/X7fThC4/50.jpg"
-]
-         },
-         "last_updated":"1635721206"
-      },
+    "46": {
+      "title": "Mirror",
+      "volume": "9",
+      "last_updated": "1632416626",
+      "groups": {
+        "No Group Scanlation": [
+          "https://i.ibb.co/2jV4BK4/001.jpg",
+          "https://i.ibb.co/HdJDjM4/002.jpg",
+          "https://i.ibb.co/5KtNBNd/003.jpg",
+          "https://i.ibb.co/FB6zkkX/004.jpg",
+          "https://i.ibb.co/RBz552F/005.jpg",
+          "https://i.ibb.co/P1yk2yP/006.jpg",
+          "https://i.ibb.co/kc0PWd6/007.jpg",
+          "https://i.ibb.co/2cP46w5/008.jpg",
+          "https://i.ibb.co/FwNRF6V/009.jpg",
+          "https://i.ibb.co/WkQNfwM/010.jpg",
+          "https://i.ibb.co/bJNt5qy/011.jpg",
+          "https://i.ibb.co/BysyGgj/012.jpg",
+          "https://i.ibb.co/SyxfwDD/013.jpg",
+          "https://i.ibb.co/VHGBTcx/014.jpg",
+          "https://i.ibb.co/y6B4Dft/015.jpg",
+          "https://i.ibb.co/K7DbFPx/016.jpg",
+          "https://i.ibb.co/m8N4Txj/017.jpg",
+          "https://i.ibb.co/3s8nfDh/018.jpg",
+          "https://i.ibb.co/N99xF0S/019.jpg",
+          "https://i.ibb.co/J3FY0cW/020.jpg",
+          "https://i.ibb.co/Lrdvc3T/021.jpg",
+          "https://i.ibb.co/G72ShRG/022.jpg",
+          "https://i.ibb.co/Nnw4WCW/023.jpg",
+          "https://i.ibb.co/dKVqJpc/024.jpg",
+          "https://i.ibb.co/3YLdjzL/025.jpg",
+          "https://i.ibb.co/NSSyZD9/026.jpg",
+          "https://i.ibb.co/G2jNXPH/027.jpg",
+          "https://i.ibb.co/cXXvLqw/028.jpg",
+          "https://i.ibb.co/FzznxMh/49.jpg",
+          "https://i.ibb.co/6N0qvm9/050.jpg"
+        ]
+      }
+    },
+    "47": {
+      "title": "Moon Fairy (Part 1)",
+      "volume": "9",
+      "last_updated": "1635030009",
+      "groups": {
+        "No Group Scanlation": [
+          "https://i.ibb.co/fp9NQDd/01.jpg",
+          "https://i.ibb.co/wBYnMwR/02.jpg",
+          "https://i.ibb.co/4tyd1FX/03.jpg",
+          "https://i.ibb.co/Lp4MMpT/04.jpg",
+          "https://i.ibb.co/7tW3Bph/05.jpg",
+          "https://i.ibb.co/D9mdt0V/06.jpg",
+          "https://i.ibb.co/MhFqtpX/07.jpg",
+          "https://i.ibb.co/CKny2gR/08.jpg",
+          "https://i.ibb.co/Pwsx5rh/09.jpg",
+          "https://i.ibb.co/R6rtmjJ/10.jpg",
+          "https://i.ibb.co/s6p6JYz/11.jpg",
+          "https://i.ibb.co/v3Lrtv3/12.jpg",
+          "https://i.ibb.co/ypfrqds/13.jpg",
+          "https://i.ibb.co/GVy2189/14.jpg",
+          "https://i.ibb.co/nbRwJSx/15.jpg",
+          "https://i.ibb.co/hDBVFpq/16.jpg",
+          "https://i.ibb.co/NyMxjQ7/17.jpg",
+          "https://i.ibb.co/qL8yktn/18.jpg",
+          "https://i.ibb.co/bvFqyLC/19.jpg",
+          "https://i.ibb.co/RHRyFc6/20.jpg",
+          "https://i.ibb.co/VTpBHB8/21.jpg",
+          "https://i.ibb.co/yn3nBGJ/22.jpg",
+          "https://i.ibb.co/vHwnKw9/23.jpg",
+          "https://i.ibb.co/f8HSsK4/24.jpg",
+          "https://i.ibb.co/rbXvTpZ/25.jpg",
+          "https://i.ibb.co/L6ffrTv/26.jpg",
+          "https://i.ibb.co/kXqFmSD/27.jpg",
+          "https://i.ibb.co/7SHy4rD/28.jpg",
+          "https://i.ibb.co/pv9cz7t/29.jpg",
+          "https://i.ibb.co/VW0kYpB/30.jpg",
+          "https://i.ibb.co/RQ9CPrW/31.jpg",
+          "https://i.ibb.co/HTjHtMx/32.jpg",
+          "https://i.ibb.co/zJw178Y/33.jpg",
+          "https://i.ibb.co/54v8QJ9/34.jpg",
+          "https://i.ibb.co/X7fThC4/50.jpg"
+        ]
+      }
+    },
+    "48.1": {
+      "title": "Moon Fairy (Part 2)",
+      "volume": "10",
+      "last_updated": "1635721206",
+      "groups": {
+        "No Group Scanlation": [
+          "https://i.ibb.co/s60z6cD/01.jpg",
+          "https://i.ibb.co/MhPDxCB/02.jpg",
+          "https://i.ibb.co/86wNgyg/03.jpg",
+          "https://i.ibb.co/JHKk974/04.jpg",
+          "https://i.ibb.co/fpJgdnT/05.jpg",
+          "https://i.ibb.co/0qkzpWK/06.jpg",
+          "https://i.ibb.co/RTCShVW/07.jpg",
+          "https://i.ibb.co/zR7qw0J/08.jpg",
+          "https://i.ibb.co/gWqzXZw/09.jpg",
+          "https://i.ibb.co/7b48cHR/10.jpg",
+          "https://i.ibb.co/wwbsjBy/11.jpg",
+          "https://i.ibb.co/qd6x51T/12.jpg",
+          "https://i.ibb.co/wSRCk3j/13.jpg",
+          "https://i.ibb.co/X7fThC4/50.jpg"
+        ]
+      }
+    },
     "48.2": {
       "title": "Moon Fairy (Part 2)",
       "volume": "10",
