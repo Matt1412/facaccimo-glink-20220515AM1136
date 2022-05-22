@@ -531,26 +531,79 @@
          },
          "last_updated":"1638130764"
       },
-      "49":{
-         "title":"The Clinic",
-         "volume":"10",
-         "groups":{
-            "No Group Scanlation":[
-                "https://i.ibb.co/nkgDJYz/01.jpg","https://i.ibb.co/hMbDwK5/02.jpg","https://i.ibb.co/X7Wtzv5/04.jpg","https://i.ibb.co/RNZjX6R/05.jpg","https://i.ibb.co/SnBHX3V/06.jpg","https://i.ibb.co/pyjKhYK/07.jpg","https://i.ibb.co/68G9Fc8/08.jpg","https://i.ibb.co/6JbdWTD/09.jpg","https://i.ibb.co/QNcrdBV/10.jpg","https://i.ibb.co/zPJVSxm/11.jpg","https://i.ibb.co/m9FJsnw/12.jpg","https://i.ibb.co/ZWghBPB/13.jpg","https://i.ibb.co/64SDwts/14.jpg","https://i.ibb.co/QffxfN2/15.jpg","https://i.ibb.co/N294p0G/16.jpg","https://i.ibb.co/n0V9nCd/17.jpg","https://i.ibb.co/JtsCk7H/18.jpg","https://i.ibb.co/wg42kNT/19.jpg","https://i.ibb.co/MhdRyN4/20.jpg","https://i.ibb.co/m0rcB1Y/21.jpg","https://i.ibb.co/rM6Cn57/22.jpg","https://i.ibb.co/fQpcBTP/23.jpg","https://i.ibb.co/HFjby3W/24.jpg","https://i.ibb.co/cvGP1pw/25.jpg","https://i.ibb.co/v1Zqm9N/26.jpg","https://i.ibb.co/2nbyFS5/27.jpg","https://i.ibb.co/4jBCK4t/28.jpg","https://i.ibb.co/jv7Fkj2/29.jpg","https://i.ibb.co/k6Gky81/30.jpg","https://i.ibb.co/1nrbK9L/31.jpg","https://i.ibb.co/3754YkR/32.jpg","https://i.ibb.co/dc8m1H6/33.jpg","https://i.ibb.co/2N59rky/34.jpg","https://i.ibb.co/sv4xLS0/49.jpg","https://i.ibb.co/hBKJC9z/50.jpg"
-            ]
-         },
-         "last_updated":"1642456598"
-      },
-    "50":{
-         "title":"Third Time's The Charm (Part 1)",
-         "volume":"10",
-         "groups":{
-            "No Group Scanlation":[
-               "https://i.ibb.co/fC5920j/01.jpg","https://i.ibb.co/ZJXBsdL/02.jpg","https://i.ibb.co/56R2P18/03.jpg","https://i.ibb.co/hDFZshR/04.jpg","https://i.ibb.co/HhBbYy4/05.jpg","https://i.ibb.co/X7S5SVz/06.jpg","https://i.ibb.co/7NtRCJS/07.jpg","https://i.ibb.co/nkyJhyj/08.jpg","https://i.ibb.co/X87KLZ2/09.jpg","https://i.ibb.co/rk1FNvC/10.jpg","https://i.ibb.co/zVQTpNX/11.jpg","https://i.ibb.co/myGxJ1V/12.jpg","https://i.ibb.co/NxsYzhp/13.jpg","https://i.ibb.co/2Z2JZTF/14.jpg","https://i.ibb.co/tCz2Zv8/15.jpg","https://i.ibb.co/P4KM58K/16.jpg","https://i.ibb.co/F4w4FDF/17.jpg","https://i.ibb.co/DLN1PYJ/18.jpg","https://i.ibb.co/zZwxtbj/49.jpg","https://i.ibb.co/85DJ0tX/50.jpg"
-            ]
-         },
-         "last_updated":"1645060368"
-      },
+      "49": {
+      "title": "The Clinic",
+      "volume": "10",
+      "last_updated": "1642456598",
+      "groups": {
+        "No Group Scanlation": [
+          "https://i.ibb.co/nkgDJYz/01.jpg",
+          "https://i.ibb.co/hMbDwK5/02.jpg",
+          "https://i.ibb.co/X7Wtzv5/04.jpg",
+          "https://i.ibb.co/RNZjX6R/05.jpg",
+          "https://i.ibb.co/SnBHX3V/06.jpg",
+          "https://i.ibb.co/pyjKhYK/07.jpg",
+          "https://i.ibb.co/68G9Fc8/08.jpg",
+          "https://i.ibb.co/6JbdWTD/09.jpg",
+          "https://i.ibb.co/QNcrdBV/10.jpg",
+          "https://i.ibb.co/zPJVSxm/11.jpg",
+          "https://i.ibb.co/m9FJsnw/12.jpg",
+          "https://i.ibb.co/ZWghBPB/13.jpg",
+          "https://i.ibb.co/64SDwts/14.jpg",
+          "https://i.ibb.co/QffxfN2/15.jpg",
+          "https://i.ibb.co/N294p0G/16.jpg",
+          "https://i.ibb.co/n0V9nCd/17.jpg",
+          "https://i.ibb.co/JtsCk7H/18.jpg",
+          "https://i.ibb.co/wg42kNT/19.jpg",
+          "https://i.ibb.co/MhdRyN4/20.jpg",
+          "https://i.ibb.co/m0rcB1Y/21.jpg",
+          "https://i.ibb.co/rM6Cn57/22.jpg",
+          "https://i.ibb.co/fQpcBTP/23.jpg",
+          "https://i.ibb.co/HFjby3W/24.jpg",
+          "https://i.ibb.co/cvGP1pw/25.jpg",
+          "https://i.ibb.co/v1Zqm9N/26.jpg",
+          "https://i.ibb.co/2nbyFS5/27.jpg",
+          "https://i.ibb.co/4jBCK4t/28.jpg",
+          "https://i.ibb.co/jv7Fkj2/29.jpg",
+          "https://i.ibb.co/k6Gky81/30.jpg",
+          "https://i.ibb.co/1nrbK9L/31.jpg",
+          "https://i.ibb.co/3754YkR/32.jpg",
+          "https://i.ibb.co/dc8m1H6/33.jpg",
+          "https://i.ibb.co/2N59rky/34.jpg",
+          "https://i.ibb.co/sv4xLS0/49.jpg",
+          "https://i.ibb.co/hBKJC9z/50.jpg"
+        ]
+      }
+    },
+    "50": {
+      "title": "Third Time's The Charm (Part 1)",
+      "volume": "10",
+      "last_updated": "1645060368",
+      "groups": {
+        "No Group Scanlation": [
+          "https://i.ibb.co/fC5920j/01.jpg",
+          "https://i.ibb.co/ZJXBsdL/02.jpg",
+          "https://i.ibb.co/56R2P18/03.jpg",
+          "https://i.ibb.co/hDFZshR/04.jpg",
+          "https://i.ibb.co/HhBbYy4/05.jpg",
+          "https://i.ibb.co/X7S5SVz/06.jpg",
+          "https://i.ibb.co/7NtRCJS/07.jpg",
+          "https://i.ibb.co/nkyJhyj/08.jpg",
+          "https://i.ibb.co/X87KLZ2/09.jpg",
+          "https://i.ibb.co/rk1FNvC/10.jpg",
+          "https://i.ibb.co/zVQTpNX/11.jpg",
+          "https://i.ibb.co/myGxJ1V/12.jpg",
+          "https://i.ibb.co/NxsYzhp/13.jpg",
+          "https://i.ibb.co/2Z2JZTF/14.jpg",
+          "https://i.ibb.co/tCz2Zv8/15.jpg",
+          "https://i.ibb.co/P4KM58K/16.jpg",
+          "https://i.ibb.co/F4w4FDF/17.jpg",
+          "https://i.ibb.co/DLN1PYJ/18.jpg",
+          "https://i.ibb.co/zZwxtbj/49.jpg",
+          "https://i.ibb.co/85DJ0tX/50.jpg"
+        ]
+      }
+    },
     "51": {
       "title": "Third Time's The Charm (Part 2)",
       "volume": "10",
@@ -633,6 +686,47 @@
           "https://i.ibb.co/NtrGc6T/17.jpg",
           "https://i.ibb.co/7yrBwDD/18.jpg",
           "https://i.ibb.co/MCJTT0G/19.jpg"
+        ]
+      }
+    },
+    "54": {
+      "title": "The Shrine of Choosing (Part 1)",
+      "volume": "11",
+      "last_updated": "1653148800",
+      "groups": {
+        "No Group Scanlation": [
+          "https://i.ibb.co/tstfv21/01.jpg",
+          "https://i.ibb.co/HDLyQXq/02.jpg",
+          "https://i.ibb.co/zhzBMrd/03.jpg",
+          "https://i.ibb.co/f9v1pxK/04.jpg",
+          "https://i.ibb.co/XxfCsMm/05.jpg",
+          "https://i.ibb.co/nRJL1FH/06.jpg",
+          "https://i.ibb.co/WyNFtDq/07.jpg",
+          "https://i.ibb.co/S091sBg/08.jpg",
+          "https://i.ibb.co/3vsDrs4/09.jpg",
+          "https://i.ibb.co/L6HYtnZ/10.jpg",
+          "https://i.ibb.co/GQ3L5hQ/11.jpg",
+          "https://i.ibb.co/mNPHJk6/12.jpg",
+          "https://i.ibb.co/nj34VPB/13.jpg",
+          "https://i.ibb.co/Tmky56K/14.jpg",
+          "https://i.ibb.co/Kr8M1Tg/15.jpg",
+          "https://i.ibb.co/pjqWFfT/16.jpg",
+          "https://i.ibb.co/syKs7YQ/17.jpg",
+          "https://i.ibb.co/G5cDRd9/18.jpg",
+          "https://i.ibb.co/grDhXwC/19.jpg",
+          "https://i.ibb.co/t29cfL2/20.jpg",
+          "https://i.ibb.co/KwdD31w/21.jpg",
+          "https://i.ibb.co/YkS6cyj/22.jpg",
+          "https://i.ibb.co/7RgnnhQ/23.jpg",
+          "https://i.ibb.co/Bj69JZz/24.jpg",
+          "https://i.ibb.co/yk8YX25/25.jpg",
+          "https://i.ibb.co/7RyQHjc/26.jpg",
+          "https://i.ibb.co/z7m0X25/27.jpg",
+          "https://i.ibb.co/qRZcmgx/28.jpg",
+          "https://i.ibb.co/bFDs6M9/29.jpg",
+          "https://i.ibb.co/VmnyC3h/30.jpg",
+          "https://i.ibb.co/L6z5LzJ/31.jpg",
+          "https://i.ibb.co/wMLJvR7/32.jpg"
         ]
       }
     }
